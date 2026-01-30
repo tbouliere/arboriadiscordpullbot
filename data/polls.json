@@ -1,0 +1,9 @@
+[
+  {
+    "question": "Bonus de drop ({semaine}) : Quand l'activer ?",
+    "description": "**Fonctionnement :**\n• Votez pour le(s) jour(s) qui vous conviennent\n• Si une option atteint **4 votes minimum**, le bonus sera activé ce jour-là\n• Vous pouvez sélectionner plusieurs options",
+    "options": ["Samedi", "Dimanche", "Pas besoin", "Autre (précisez en commentaire)"],
+    "duration_hours": 168,
+    "allow_multiselect": true
+  }
+]

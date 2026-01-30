@@ -1,0 +1,9 @@
+{
+  "name": "discord-poll-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Discord bot that posts weekly polls via Vercel Cron",
+  "dependencies": {
+    "discord.js": "^14.14.0"
+  }
+}
