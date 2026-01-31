@@ -1,8 +1,8 @@
-{
+9{
   "crons": [
     {
       "path": "/api/cron/weekly-poll",
-      "schedule": "30 4 * * 1"
+      "schedule": "00 9 * * 1"
     }
   ]
 }
