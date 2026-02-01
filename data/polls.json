@@ -1,8 +1,8 @@
 [
   {
     "question": "Bonus de drop ({semaine}) : Quand l'activer ?",
-    "description": "**Fonctionnement :**\n• Votez pour le(s) jour(s) qui vous conviennent\n• Si une option atteint **4 votes minimum**, le bonus sera activé ce jour-là\n• Vous pouvez sélectionner plusieurs options",
-    "options": ["Samedi", "Dimanche", "Pas besoin", "Autre (précisez en commentaire)"],
+    "description": "**Fonctionnement :**\n• Votez pour le(s) jour(s) qui vous conviennent\n• Si une option atteint **4 votes minimum**, le bonus sera activé ce jour-là\n• En cas d'égalité, le dimanche sera choisi par défaut\n• Si l'option économie obtient au moins 6 votes, pas de distribution cette semaine.\n• Vous pouvez sélectionner plusieurs options",
+    "options": ["Samedi", "Dimanche", "Pas besoin", "On économise !", "Autre (précisez en commentaire)"],
     "duration_hours": 168,
     "allow_multiselect": true
   }
